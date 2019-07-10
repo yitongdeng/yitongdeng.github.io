@@ -1,0 +1,5 @@
+- id: project
+  description: This contain all the _projects
+  projectfolder: /_projects
+  projects:
+    - name: 2DGraphicsEngine
