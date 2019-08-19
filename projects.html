@@ -4,8 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 <ul>
-    {% for project in site.categories.projects %}
+    {% assign projects = site.categories.projects %}
+    {% assign projects = projects | sort:"weight" %}
+    {% for project in projects %}
     <li>
+
         <a href="{{project.url}}">{{ project.title }}</a>
     </li>
     {% endfor %}
