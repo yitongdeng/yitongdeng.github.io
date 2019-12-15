@@ -5,8 +5,8 @@ title: "2D Graphics Engine"
 date: 2019-02-26 21:53:32 -0500
 weight: 1
 ---
-This is the 2D graphics engine project that I implemented for a 2D graphics class.
-I enjoyed the class a lot, because I finally was able to take a class in computer graphics after completing all the prerequisite.
+This is the 2D graphics engine project that I developed for a 2D graphics class.
+I enjoyed the class a lot, because I finally was able to take a class in computer graphics after completing all the other prerequisite.
 This class helped me build a strong foundation in 2D graphics.
 I learned the whole graphics pipeline from inputting vertex data, transformation using matrix, clipping edges to scan line conversion.
 I did not use any graphics libraries through the whole project and built everything from scratch.
