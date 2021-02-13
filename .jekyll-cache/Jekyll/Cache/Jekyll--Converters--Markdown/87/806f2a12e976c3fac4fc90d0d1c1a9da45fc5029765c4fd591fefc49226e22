@@ -1,0 +1,32 @@
+I" <p>This is the 2D graphics engine project that I developed for a 2D graphics class.
+I enjoyed the class a lot, because I finally was able to take a class in computer graphics after completing all the other prerequisite.
+This class helped me build a strong foundation in 2D graphics.
+I learned the whole graphics pipeline from inputting vertex data, transformation using matrix, clipping edges to scan line conversion.
+I did not use any graphics libraries through the whole project and built everything from scratch.
+I really appreciate by the ability of coding to produce beautiful images with high performance.</p>
+
+<p>Concepts involved in making the project: 
+-geometric primitives
+-scan conversion
+-clipping
+-transformations
+-compositing
+-texture sampling
+-gradients
+-antialiasing
+-filtering
+-parametric curves
+-geometric stroking</p>
+
+<p>The project is implemented in C/C++.</p>
+
+<p>Partial code is available on my <a href="https://github.com/sking8/2D-Graphics">github project page</a>.</p>
+
+<p><img src="/assets/img/2DGraphicsEngine/gradient_blendmodes.png" alt="gradient blend modes" />
+<img src="/assets/img/2DGraphicsEngine/lion.png" alt="lion" />
+<img src="/assets/img/2DGraphicsEngine/poly.png" alt="poly" />
+<img src="/assets/img/2DGraphicsEngine/quad_clock.png" alt="quad clock" />
+<img src="/assets/img/2DGraphicsEngine/rings.png" alt="rings" />
+<img src="/assets/img/2DGraphicsEngine/spock_quad.png" alt="spock quad" /></p>
+
+:ET
