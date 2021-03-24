@@ -3,7 +3,7 @@ layout: page
 permalink: /2DGraphicsEngine/
 title: "2D Graphics Engine"
 date: 2019-02-26 21:53:32 -0500
-weight: 1
+weight: 3
 ---
 This is the 2D graphics engine project that I developed for a 2D graphics class.
 I enjoyed the class a lot, because I finally was able to take a class in computer graphics after completing all the other prerequisite.

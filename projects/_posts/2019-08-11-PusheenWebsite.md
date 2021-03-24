@@ -12,15 +12,15 @@ I was the one who initiated the team and formed team.
 I divided the tasks to different parts to teammates according to their specializations.
 I also planned out and enforced the timeline in order to finish  the project within one-week time limit.
 
-![main](/assets/img/pusheen/1.png)
+![main](../assets/img/pusheen/1.png)
 
-![sub](/assets/img/pusheen/2.png)
+![sub](../assets/img/pusheen/2.png)
 
-![detail](/assets/img/pusheen/3.png)
+![detail](../assets/img/pusheen/3.png)
 
-![apply](/assets/img/pusheen/4.png)
+![apply](../assets/img/pusheen/4.png)
 
-Partial code is available on my [github project page](https://github.com/sking8/2D-Graphics).
+Partial code is available on my [github project page](https://github.com/sking8/Credit-Application-Team-Pusheen).
 
 
 
