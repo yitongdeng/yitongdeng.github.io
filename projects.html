@@ -3,13 +3,37 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<head>
+    <style>
+    #thumbnail:hover>img{
+        filter:brightness(0.5);
+        cursor:pointer;
+    }
 
-<a href="https://cdr.lib.unc.edu/concern/honors_theses/r494vr41m">Mobile AR Telepresence (Honors Thesis)</a><br>
+    #thumbnail>h2{
+        display: none;
+    }
+
+    #thumbnail:hover>h2{
+        display: inline-flex;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        text-align: center;
+    }
+
+    #thumbnail{
+        position:relative;
+    }
+    </style>
+</head>
+
+<a id="thumbnail" href="https://gitlab.com/sking36/image-based-lighting" target="_blank"><img src="/assets/img/image_based_lighting.jpg"><h2>Image Based Lighting</h2></a><br><br>
+<a id="thumbnail" href="https://cdr.lib.unc.edu/concern/honors_theses/r494vr41m" target="_blank"><img src="/assets/img/honors_thesis_1.jpg"><h2>Mobile AR Telepresence (Honors Thesis)</h2></a><br><br>
 {% assign projects = site.categories.projects %}
 {% assign projects = projects | sort:"weight" %}
 {% for project in projects %}
 <a href="{{project.url}}">{{ project.title }}</a><br>
 {% endfor %}
-
-
-
