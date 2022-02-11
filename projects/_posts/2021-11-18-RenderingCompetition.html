@@ -10,6 +10,8 @@ title: "Bioluminescence Scene Rendering"
 
 (#) Rendering Algorithm Collaborated by Fan Feng and Mengdi Wang
 
+<img src="/assets/img/renderingCompetition/final4_bright.png">
+
 We implemented the rendering program used for the final picture step by step, in the following order:
 
 (1) Participating media path tracer.
@@ -173,9 +175,8 @@ We use `OpenMP` to parallelize the program. We put all pixel indexes into a vect
 
 We also parallelized the photon emission part, by parallely tracing multiple photons, and guard the `add_child()` by `omp critical`. The scalability of the parallelized program is good.
 
-(##) Final Image
-
 <img src="/assets/img/renderingCompetition/final4_bright.png">
+
 
 <!-- Slider -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
