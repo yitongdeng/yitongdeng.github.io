@@ -3,6 +3,13 @@ layout: page
 permalink: /ImpulseFluid/
 title: "Impulse Fluid"
 ---
+## Impulse Fluid Simulation
+IEEE Transactions on Visualization and Computer Graphics (TVCG)<br>
+<a href="https://sking8.github.io/"><b>Fan Feng</b><a>, <a href="https://jyl-pages.github.io/">Jinyuan Liu</a>, <a href="https://shiyingxiong.github.io/">Shiying Xiong</a>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707648">Shuqi Yang</a>, <a href="http://portfolio.yaorui.info/">Yaorui Zhang</a>, <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a><br>
+<b>[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707648">paper</a>][<a href="https://youtu.be/MFAXIETFC9M">video</a>]</b>
+
+<img src="../../../assets/img/paper/impulse.jpg" alt="impulse_fluid">
+
 ## Abstract
 
 We propose a new incompressible Navier–Stokes solver based on the impulse gauge transformation. The mathematical
@@ -17,7 +24,9 @@ strength of the turbulent effects of fluid.
 
 ## Video / Results
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MFAXIETFC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/MFAXIETFC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
 ## Citation
