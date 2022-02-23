@@ -3,6 +3,25 @@ layout: page
 permalink: /ImpulseFluid/
 title: "Impulse Fluid"
 ---
+<style type="text/css" media="screen">
+  .videoWrapper {
+      position: relative;
+      padding-bottom: 56.25%;
+      /* 16:9 */
+      padding-top: 25px;
+      height: 0;
+    }
+    
+  .videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+
 ## Impulse Fluid Simulation
 IEEE Transactions on Visualization and Computer Graphics (TVCG)<br>
 <a href="https://sking8.github.io/"><b>Fan Feng</b><a>, <a href="https://jyl-pages.github.io/">Jinyuan Liu</a>, <a href="https://shiyingxiong.github.io/">Shiying Xiong</a>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707648">Shuqi Yang</a>, <a href="http://portfolio.yaorui.info/">Yaorui Zhang</a>, <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a><br>
