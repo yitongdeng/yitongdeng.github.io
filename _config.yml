@@ -1,6 +1,6 @@
-title: Fan Feng
-author: Fan Feng
-email: fanfengng@yahoo.com
+title: Yitong Deng 邓宜桐
+author: Yitong Deng
+email: yitong.deng.gr@dartmouth.edu
 description: > # this means to ignore newlines until "show_exerpts:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -16,14 +16,14 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: fanfeng_NG
-    github:  sking8
+    github:  yitongdeng
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: fan-feng-4205b214b
-    email: fanfengng@yahoo.com
+    # linkedin: fan-feng-4205b214b
+    email: yitong.deng.gr@dartmouth.edu
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
