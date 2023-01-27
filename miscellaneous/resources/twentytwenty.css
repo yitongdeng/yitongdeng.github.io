@@ -181,7 +181,7 @@
     position: absolute;
     /*text-shadow: 0px 0px 1em rgba(0, 0, 0, 0.5);*/
     text-shadow: 0 0 1ex black, 0 0 1ex black;
-    color: white;
+    color: rgb(255, 0, 0);
     /*font-size: 13px;*/
     /*letter-spacing: 0.1em;*/
     padding: 1ex;
